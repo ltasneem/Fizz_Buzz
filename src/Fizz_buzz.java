@@ -37,7 +37,7 @@ public class Fizz_buzz {
 			else if(i%5==0 && i%3==0)
 			{
 				fizzybuzzy+=1;
-				if(fizzybuzzy == 3)
+				if(fizzybuzzy == 4)
 				{
 					fizzybuzzy =0;
 					System.out.println("FizzyBuzzy");
